@@ -1,0 +1,45 @@
+C:\Users\gorkma\Projects\NBADraftBot\NBADraftBot\bin\Bot Application1.dll.config
+C:\Users\gorkma\Projects\NBADraftBot\NBADraftBot\bin\Bot Application1.dll
+C:\Users\gorkma\Projects\NBADraftBot\NBADraftBot\bin\Bot Application1.pdb
+C:\Users\gorkma\Projects\NBADraftBot\NBADraftBot\bin\Autofac.dll
+C:\Users\gorkma\Projects\NBADraftBot\NBADraftBot\bin\Chronic.dll
+C:\Users\gorkma\Projects\NBADraftBot\NBADraftBot\bin\Microsoft.Bot.Builder.dll
+C:\Users\gorkma\Projects\NBADraftBot\NBADraftBot\bin\Microsoft.Bot.Connector.dll
+C:\Users\gorkma\Projects\NBADraftBot\NBADraftBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\gorkma\Projects\NBADraftBot\NBADraftBot\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\gorkma\Projects\NBADraftBot\NBADraftBot\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\gorkma\Projects\NBADraftBot\NBADraftBot\bin\Newtonsoft.Json.dll
+C:\Users\gorkma\Projects\NBADraftBot\NBADraftBot\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\gorkma\Projects\NBADraftBot\NBADraftBot\bin\System.Net.Http.Formatting.dll
+C:\Users\gorkma\Projects\NBADraftBot\NBADraftBot\bin\System.Web.Http.dll
+C:\Users\gorkma\Projects\NBADraftBot\NBADraftBot\bin\System.Web.Http.WebHost.dll
+C:\Users\gorkma\Projects\NBADraftBot\NBADraftBot\bin\Autofac.xml
+C:\Users\gorkma\Projects\NBADraftBot\NBADraftBot\bin\Microsoft.Bot.Builder.xml
+C:\Users\gorkma\Projects\NBADraftBot\NBADraftBot\bin\Microsoft.Bot.Connector.xml
+C:\Users\gorkma\Projects\NBADraftBot\NBADraftBot\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+C:\Users\gorkma\Projects\NBADraftBot\NBADraftBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\gorkma\Projects\NBADraftBot\NBADraftBot\bin\Microsoft.Rest.ClientRuntime.xml
+C:\Users\gorkma\Projects\NBADraftBot\NBADraftBot\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\gorkma\Projects\NBADraftBot\NBADraftBot\bin\Newtonsoft.Json.xml
+C:\Users\gorkma\Projects\NBADraftBot\NBADraftBot\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\gorkma\Projects\NBADraftBot\NBADraftBot\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\gorkma\Projects\NBADraftBot\NBADraftBot\bin\System.Net.Http.Formatting.xml
+C:\Users\gorkma\Projects\NBADraftBot\NBADraftBot\bin\System.Web.Http.xml
+C:\Users\gorkma\Projects\NBADraftBot\NBADraftBot\bin\System.Web.Http.WebHost.xml
+C:\Users\gorkma\Projects\NBADraftBot\NBADraftBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\gorkma\Projects\NBADraftBot\NBADraftBot\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\gorkma\Projects\NBADraftBot\NBADraftBot\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\gorkma\Projects\NBADraftBot\NBADraftBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\gorkma\Projects\NBADraftBot\NBADraftBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\gorkma\Projects\NBADraftBot\NBADraftBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\gorkma\Projects\NBADraftBot\NBADraftBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\gorkma\Projects\NBADraftBot\NBADraftBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\gorkma\Projects\NBADraftBot\NBADraftBot\obj\Debug\NBADraftBot.csprojResolveAssemblyReference.cache
+C:\Users\gorkma\Projects\NBADraftBot\NBADraftBot\obj\Debug\Bot Application1.dll
+C:\Users\gorkma\Projects\NBADraftBot\NBADraftBot\obj\Debug\Bot Application1.pdb
+C:\Users\gorkma\Projects\NBADraftBot\NBADraftBot\bin\EntityFramework.dll
+C:\Users\gorkma\Projects\NBADraftBot\NBADraftBot\bin\EntityFramework.SqlServer.dll
+C:\Users\gorkma\Projects\NBADraftBot\NBADraftBot\bin\EntityFramework.xml
+C:\Users\gorkma\Projects\NBADraftBot\NBADraftBot\bin\EntityFramework.SqlServer.xml
+C:\Users\gorkma\Projects\NBADraftBot\NBADraftBot\obj\Debug\NBADraftBot.Migrations.Renaming.resources
+C:\Users\gorkma\Projects\NBADraftBot\NBADraftBot\obj\Debug\NBADraftBot.csproj.GenerateResource.Cache
