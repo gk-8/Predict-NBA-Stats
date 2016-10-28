@@ -11,7 +11,7 @@ We'll take advantage of Azure Machine Learning Studio capabilities to transform,
 ![Training Experiment 2(https://historicnbastats.blob.core.windows.net/images/training_exp2.PNG)](https://historicnbastats.blob.core.windows.net/images/training_exp2.PNG)
 
 ### Predictive Experiment
-And then we can predict 2017 stats and use them from everywhere we want to (for example, a WebAPI-based conversational Bot solution:
+And then we can predict 2017 stats and use them from everywhere we want (for example, a WebAPI-based conversational Bot solution):
 
 ![Predictive Schema (https://historicnbastats.blob.core.windows.net/images/predictive_schema.PNG)](https://historicnbastats.blob.core.windows.net/images/predictive_schema.PNG)
 
